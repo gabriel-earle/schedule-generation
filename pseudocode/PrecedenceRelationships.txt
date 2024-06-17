@@ -2,6 +2,7 @@ Begin
 
 argument: newActivity; // object with details about the event for which precedence relationships are being determined
 argument: priorActivities; // array, with details about each priorActivity based on Pseudocode 1
+argument: epsilon; // maximum spatial distance to indicate that object's colocation creates a dependency
 iniatilize currentObjectOfInterest, priorObjectOfInterest;
 initialize dependencies array to store deduced dependencies;
 
@@ -15,14 +16,24 @@ if newActivity has type "slice" {
 
 foreach priorActivity in priorActivities {
     if priorActivity has type "move" {
-        priorObjectOfInterest = priorActivity's object being moved
+        priorObjectOfInterest = priorActivity's object being moved;
+
+        if currentObjectOfInterest equals priorActivity {
+            dependencies.append(priorActivity);
+            continue;
+        }
+        if currentObjectOfInterest.position - priorObjectOfInterest.position < epsilon {
+            dependencies.append(priorActivity);
+            continue;
+        }
     }
 
     if priorActivity has type "slice" {
         priorObjectOfInterest = priorActivity's object being sliced;
-    }
 
-    if currentObjectOfInterest equals priorObjectOfInterest {
-        dependencies.append(priorActivity)
+        if currentObjectOfInterest equals priorActivity {
+            dependencies.append(priorActivity);
+            continue;
+        }
     }
 }
