@@ -1,0 +1,43 @@
+Begin
+
+initialize addCache1, addCache2, removeCache, grabCache, releaseCache, that cache objects of interest;
+iniatilize activities array that stores deduced activities
+
+foreach event in log {
+    if event has type "GameObject Added" {
+        reset grabCache, releaseCache;
+        if new object is the 1st piece from a cut {
+            addCache1 = event's object of interest;
+        }
+        if new object is the 2nd piece from a cut {
+            addCache2 = event's object of interest;
+        }
+        if removeCache exists and addCache1 exists and addCache2 exists {
+            create new slice activity "s" (a pure function of removeCache, addCache1, and addCache2);
+            activities.append(s);
+        }
+    }
+
+    if event has type "GameObject Removed" {
+        reset grabCache, releaseCache;
+        removeCache = event's object of interest;
+        if removeCache exists and addCache1 exists and addCache2 exists {
+            create new slice activity "a" (a pure function of removeCache, addCache1, and addCache2);
+            activities.append(a);
+        }
+    }
+
+    if event has type "GameObject Picked Up" {
+        reset removeCache, addCache1, addCache2, grabCache, releaseCache;
+        grabCache = event's object of interest;
+    }
+
+    if event has type "GameObject Let Go" {
+        reset removeCache, addCache1, addCache2;
+        releaseCache = event's object of interest;
+        if grabCache exists and (grabCache object equals releaseCache object) {
+            create new move activity "m" (a pure function of grabCache and releaseCache);
+            activities.append(m);
+        }
+    }
+}

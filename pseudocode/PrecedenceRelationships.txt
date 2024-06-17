@@ -1,0 +1,28 @@
+Begin
+
+argument: newActivity; // object with details about the event for which precedence relationships are being determined
+argument: priorActivities; // array, with details about each priorActivity based on Pseudocode 1
+iniatilize currentObjectOfInterest, priorObjectOfInterest;
+initialize dependencies array to store deduced dependencies;
+
+if newActivity has type "move" {
+    currentObjectOfInterest = newActivity's object being moved
+}
+
+if newActivity has type "slice" {
+    currentObjectOfInterest = newActivity's object being sliced;
+}
+
+foreach priorActivity in priorActivities {
+    if priorActivity has type "move" {
+        priorObjectOfInterest = priorActivity's object being moved
+    }
+
+    if priorActivity has type "slice" {
+        priorObjectOfInterest = priorActivity's object being sliced;
+    }
+
+    if currentObjectOfInterest equals priorObjectOfInterest {
+        dependencies.append(priorActivity)
+    }
+}

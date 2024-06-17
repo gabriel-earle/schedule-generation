@@ -1,0 +1,360 @@
+[{
+    "Timestamp": "2024-02-06 11:58:15",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:36",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:15",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:15",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:15",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:34",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:15",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:35",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:23",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:36",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:26",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:36",
+        "Position": "(63.53, 2.60, 21.99)",
+        "Rotation": "(0.03489, 0.33407, 0.80175, 0.49435)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:29",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:32",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20",
+        "Position": "(64.38, 3.27, 21.19)",
+        "Rotation": "(-0.08050, 0.82559, 0.42511, 0.36221)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:37",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_0",
+        "Position": "(69.23, 1.08, 21.59)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:37",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_1",
+        "Position": "(69.57, 1.55, 21.35)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:38",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20",
+        "Position": "(64.38, 3.27, 21.19)",
+        "Rotation": "(-0.08050, 0.82559, 0.42511, 0.36221)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:38",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_1",
+        "Position": "(69.57, 1.55, 21.35)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:40",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_1",
+        "Position": "(70.07, 1.05, 22.56)",
+        "Rotation": "(0.18466, -0.26486, 0.15080, 0.93435)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:42",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_0",
+        "Position": "(69.23, 1.08, 21.59)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:44",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_0",
+        "Position": "(70.25, 1.03, 23.18)",
+        "Rotation": "(-0.52193, -0.50094, 0.65793, 0.20924)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:47",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:48",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(62.65, 0.24, 19.62)",
+        "Rotation": "(-0.48454, 0.50937, 0.47761, 0.52692)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:48",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:35",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:52",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:35",
+        "Position": "(62.86, 1.56, 23.89)",
+        "Rotation": "(0.08255, 0.53848, 0.79187, 0.27598)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:58:55",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(62.65, 0.24, 19.62)",
+        "Rotation": "(-0.48454, 0.50937, 0.47761, 0.52692)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:01",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(68.73, 4.48, 17.58)",
+        "Rotation": "(-0.04842, 0.74603, 0.04625, 0.66254)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:05",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_0",
+        "Position": "(71.08, 1.53, 22.63)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:05",
+    "EventType": "GameObject Added",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_1",
+        "Position": "(70.48, 1.43, 22.71)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:06",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19",
+        "Position": "(68.73, 4.48, 17.58)",
+        "Rotation": "(-0.04842, 0.74603, 0.04625, 0.66254)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:06",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_0",
+        "Position": "(71.08, 1.53, 22.63)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:07",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_0",
+        "Position": "(68.95, 1.13, 22.60)",
+        "Rotation": "(0.08331, -0.09063, 0.02923, 0.99196)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:08",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_1",
+        "Position": "(70.48, 1.43, 22.71)",
+        "Rotation": "(0.00000, 0.00000, 0.00000, 1.00000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 11:59:10",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_1",
+        "Position": "(69.69, 1.12, 22.38)",
+        "Rotation": "(-0.11509, -0.04976, 0.62100, 0.77371)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:34",
+        "Position": "(62.48, 0.03, 19.71)",
+        "Rotation": "(-0.50000, 0.50000, 0.50000, 0.50000)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:35",
+        "Position": "(62.86, 1.56, 23.89)",
+        "Rotation": "(0.08255, 0.53848, 0.79187, 0.27598)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_1",
+        "Position": "(69.69, 1.12, 22.38)",
+        "Rotation": "(-0.11509, -0.04976, 0.62100, 0.77371)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_1",
+        "Position": "(70.07, 1.05, 22.56)",
+        "Rotation": "(0.18466, -0.26486, 0.15080, 0.93435)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:36",
+        "Position": "(63.53, 2.60, 21.99)",
+        "Rotation": "(0.03489, 0.33407, 0.80175, 0.49435)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:20_0",
+        "Position": "(70.25, 1.03, 23.18)",
+        "Rotation": "(-0.52193, -0.50094, 0.65793, 0.20924)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+},
+{
+    "Timestamp": "2024-02-06 12:00:28",
+    "EventType": "GameObject Removed",
+    "ObjectDetails": {
+        "Name": "Mechanical_Equipment__HVAC_Other_Chromalox_MVSGI-High-Capacity-Steam-Generator__Not_a_Type_-_Load_Type_Catalog!__326873:19_0",
+        "Position": "(68.95, 1.13, 22.60)",
+        "Rotation": "(0.08331, -0.09063, 0.02923, 0.99196)",
+        "Scale": "(1.00, 1.00, 1.00)"
+    }
+}]
