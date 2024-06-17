@@ -6,7 +6,7 @@ Following the formulation of the proposed methodology, two case studies based on
 
 ## Example 1
 
-The first case study is based on a straightforward task wherein an operator must cut a machine into pieces in place and efficiently pack the pieces in a waste container. The task depicted in the first case study takes around a dozen activities (moving, cutting, etc) over a few minutes to complete.
+The first case study is based on a straightforward task wherein an operator must cut a machine into pieces in place and efficiently pack the pieces in a waste container. The task depicted in the first case study takes around a dozen activities (moving, cutting, etc) and a minute to complete.
 
 [Video Link](https://www.youtube.com/watch?v=wZ3tNuM8dhM)
 
